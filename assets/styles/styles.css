@@ -52,8 +52,7 @@
 .pf_name{
     white-space: nowrap;
     text-align: center;
-    margin-top:1.69rem;
-    font-family: var(--fonte);    
+    margin-top:1.69rem;        
     font-weight: 700;
     margin-bottom: 4.75rem;
 }
